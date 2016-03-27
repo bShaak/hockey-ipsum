@@ -1,40 +1,41 @@
-Butterfly
-Cherry Picking
-Enforcer
-Five-Hole
-Saucer Pass
-Dump and Chase
-Bodycheck
-Gordie Howe Hat Trick
-Face Wash
-Garbage Goal
-Healthy Scratch
-Breakout
-Blue Line
-Red Line
-Centre Ice
-Goalie
-Double Shifting
-Stick
-Skates
-Slap Shot
-Wrist Shot
-Power Play
-Short Handed
-Two Man Advantage
-Five on Three
-Pinch
-Playoff Beard
-Goal
-Assist
-Poke Check
-Pulling the Goalie
-Crease
-Net
-Crossbar
-Post
-Penalty Box
-Tape to Tape
-Toe Drag
-Wraparound
-Stack the Pads
+butterfly
+cherry picking
+enforcer
+five-hole
+saucer pass
+dump and chase
+bodycheck
+gordie howe hat trick
+face wash
+garbage goal
+healthy scratch
+breakout
+breakaway
+blue line
+red line
+centre ice
+goalie
+double shifting
+stick
+skates
+slap shot
+wrist shot
+power play
+short handed
+two man advantage
+five on three
+pinch
+playoff beard
+goal
+assist
+poke check
+pull the goalie
+crease
+net
+crossbar
+post
+penalty box
+tape to tape
+toe drag
+wraparound
+stack the pads

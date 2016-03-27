@@ -1,42 +1,42 @@
-Apple
-Bar Down
-Barn
-Barn Burner
-Beauty
-Beaut
-Bender
-Biscuit
-Breadbasket
-Bucket
-Celly
-Chel
-Chiclets
-Chirp
-Clapper
-Dinger
-Duster
-Flow
-For The Boys
-Forcheck Backchek Paycheck
-Gino
-Gongshow
-Grinder
-Grocery Stick
-Hoser
-Lip Sweater
-Mitts
-Pigeon
-Puck Bunny
-Pylon
-Ride the Pine
-Rocket
-Sauce
-The Show
-Sieve
-Snipe
-Snipe Show
-Top Cheese
-Top Cheddar
-Chedz
-Twig
-Wheeling
+apple
+bar down
+barn
+barn burner
+beauty
+beaut
+bender
+biscuit
+breadbasket
+bucket
+celly
+chel
+chiclets
+chirp
+clapper
+dinger
+duster
+flow
+for the boys
+forcheck backchek paycheck
+gino
+gongshow
+grinder
+grocery stick
+hoser
+lip sweater
+mitts
+pigeon
+puck bunny
+pylon
+ride the pine
+rocket
+sauce
+the show
+sieve
+snipe
+snipe show
+top cheese
+top cheddar
+chedz
+twig
+wheeling
