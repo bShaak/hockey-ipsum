@@ -1,3 +1,3 @@
 #Hockey Ipsum
 
-This is a stub text generator that uses a dictionary of hockey slang.
+This is a dummy text generator that uses a dictionary of ice hockey terminology.
